@@ -191,6 +191,7 @@ struct retro_core_option_v2_definition option_defs_us[] = {
       "system",
       {
          { "disabled", NULL },
+         { "80MHz",    NULL },
          { "160MHz",   NULL },
          { "180MHz",   NULL },
          { "200MHz",   NULL },
